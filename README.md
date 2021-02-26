@@ -7,6 +7,7 @@ eu tento melhorar na programação para que eu possa ser um programador<br>
 front-end de sucesso<br>
 
 :mailbox: Email: luisdavi.contato@gmail.com
+<br>
 :telephone_receiver: +55 84 999153350
 ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
 
