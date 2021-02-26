@@ -9,6 +9,7 @@ front-end de sucesso<br>
 :mailbox: Email: luisdavi.contato@gmail.com
 <br>
 :telephone_receiver: +55 84 999153350
+<br>
 ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
 
 :books: Atualmente estudando:
