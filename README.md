@@ -6,6 +6,8 @@ Me chamo Luis Davi, atualmente tenho 16 anos, conforme o tempo passa<br>
 eu tento melhorar na programação para que eu possa ser um programador<br>
 front-end de sucesso<br>
 
+:mailbox: Email: luisdavi.contato@gmail.com
+:telephone_receiver: +55 84 999153350
 ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
 
 :books: Atualmente estudando:
