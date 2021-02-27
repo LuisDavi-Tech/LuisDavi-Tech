@@ -4,6 +4,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LuisDavi-Tech&show_icons=true&theme=tokyonight)
 
 ---
+---
 
 <details>
   <summary> <b> Um pouco sobre mim</b> <i>(Clique aqui para expandir)</i> </summary>
