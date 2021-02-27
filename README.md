@@ -2,17 +2,23 @@
 <br>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LuisDavi-Tech&show_icons=true&theme=tokyonight)
+
 ---
+
 :boy: Sobre Mim:<br>
 <br>
 Me chamo Luis Davi, atualmente tenho 16 anos, conforme o tempo passa<br>
 eu tento melhorar na programação para que eu possa ser um programador<br>
 front-end de sucesso
+
 ---
+
 ### Linguagens mais usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisDavi-Tech&layout=compact&theme=tokyonight)
+
 ---
+
 <h3>Contato</h3>
 <br>
 :mailbox: Email: luisdavi.contato@gmail.com
