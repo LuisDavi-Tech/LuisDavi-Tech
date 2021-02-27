@@ -1,7 +1,7 @@
 ### Olá Me chamo Luis Davi, Tenho 16 anos e estou tentando ser um programador Front-end
 <br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ArthurHydr&show_icons=true&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LuisDavi-Tech&show_icons=true&theme=tokyonight)
 <br>
 <br>
 :boy: Sobre Mim:<br>
