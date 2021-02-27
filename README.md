@@ -5,11 +5,14 @@
 
 ---
 
-:boy: Sobre Mim:<br>
-<br>
-Me chamo Luis Davi, atualmente tenho 16 anos, conforme o tempo passa<br>
-eu tento melhorar na programação para que eu possa ser um programador<br>
-front-end de sucesso
+<details>
+  <summary> <b> Um pouco sobre mim</b> <i>(Clique aqui para expandir)</i> </summary>
+  :boy: Sobre Mim:<br>
+  <br>
+  Me chamo Luis Davi, atualmente tenho 16 anos, conforme o tempo passa<br>
+  eu tento melhorar na programação para que eu possa ser um programador<br>
+  front-end de sucesso
+</details>
 
 ---
 
