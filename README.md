@@ -14,7 +14,7 @@ front-end de sucesso<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisDavi-Tech&layout=compact&theme=tokyonight)
 
 <br>
-### Contato
+## Contato
 <br>
 :mailbox: Email: luisdavi.contato@gmail.com
 <br>
