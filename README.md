@@ -19,7 +19,7 @@ front-end de sucesso<br>
 <br>
 :telephone_receiver: +55 84 999153350
 <br>
-
+<br>
 :books: Atualmente estudando:
 <br>
 <br>
