@@ -10,7 +10,8 @@ Me chamo Luis Davi, atualmente tenho 16 anos, conforme o tempo passa<br>
 eu tento melhorar na programação para que eu possa ser um programador<br>
 front-end de sucesso<br>
 ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
-###Linguagens mais usadas
+<br>
+### Linguagens mais usadas
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurHydr&layout=compact&theme=tokyonight)
 <br>
