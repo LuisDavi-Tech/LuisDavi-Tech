@@ -12,6 +12,7 @@ front-end de sucesso<br>
 ### Linguagens mais usadas
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisDavi-Tech&layout=compact&theme=tokyonight)
+
 <br>
 ### Contato
 <br>
