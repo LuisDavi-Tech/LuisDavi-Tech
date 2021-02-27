@@ -9,19 +9,16 @@
 Me chamo Luis Davi, atualmente tenho 16 anos, conforme o tempo passa<br>
 eu tento melhorar na programação para que eu possa ser um programador<br>
 front-end de sucesso<br>
-▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
-<br>
 ### Linguagens mais usadas
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurHydr&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisDavi-Tech&layout=compact&theme=tokyonight)
 <br>
-▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+### Contato
 <br>
 :mailbox: Email: luisdavi.contato@gmail.com
 <br>
 :telephone_receiver: +55 84 999153350
 <br>
-▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
 
 :books: Atualmente estudando:
 <br>
