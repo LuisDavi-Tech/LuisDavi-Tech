@@ -1,7 +1,7 @@
 ### Olá Me chamo Luis Davi, Tenho 16 anos e estou tentando ser um programador Front-end
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisDavi-Tech&layout=compact&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ArthurHydr&show_icons=true&theme=tokyonight)
 <br>
 <br>
 :boy: Sobre Mim:<br>
@@ -18,8 +18,6 @@ front-end de sucesso<br>
 
 :books: Atualmente estudando:
 <br>
-  :heavy_check_mark: VueJS
-<br>
-  :heavy_check_mark: NodeJS
-<br>
-  :heavy_check_mark: Front-end
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
