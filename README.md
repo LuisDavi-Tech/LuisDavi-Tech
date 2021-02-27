@@ -20,11 +20,10 @@ front-end de sucesso<br>
 :telephone_receiver: +55 84 999153350
 <br>
 
-:books: Atualmente estudando:
+:books: Atualmente estudando:<br>
 
-<br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
-<br>
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-<br>
+
 ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
