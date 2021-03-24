@@ -30,7 +30,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
 ![VUEJS](https://img.shields.io/badge/-VueJS-24bf85?style=flat-square&logo=VueJS&logoColor=#19b57b)
-![Discord.js](https://img.shields.io/badge/-Discord.js-73acf0?style=flat-square&logo=Discord.js&logoColor=white)
+![Discord.js](https://img.shields.io/badge/-Discord.js-7397f0?style=flat-square&logo=Discord.js&logoColor=white)
 
 
 
