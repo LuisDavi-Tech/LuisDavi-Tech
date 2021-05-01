@@ -1,4 +1,4 @@
-### 
+### Desenvolvedor Front-end, entusiasta de Web Design e UX-UI. Busco compartilhamento de conhecimento para aperfeiçoamento dos meus projetos. 
 <br>
 
 <p>Visite meu website: https://luisdavi-tech.github.io/my-protfolio/</p>
