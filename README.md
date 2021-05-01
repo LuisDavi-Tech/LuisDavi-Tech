@@ -9,14 +9,6 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LuisDavi-Tech&show_icons=true&theme=tokyonight)
 
 
----
-<p align="center">Top Lingagens</p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisDavi-Tech)
-
-
----
-
 <details>
   <summary> <b> Um pouco sobre mim</b> <i>(Clique aqui para expandir)</i> </summary>
   :boy: Sobre Mim:<br>
