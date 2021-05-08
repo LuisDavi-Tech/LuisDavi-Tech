@@ -3,7 +3,6 @@
 <h4> Desenvolvedor Front-end, entusiasta de Web Design e UX-UI. Busco compartilhamento de conhecimento para aperfeiçoamento dos meus projetos. </h4>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LuisDavi-Tech&show_icons=true&theme=tokyonight)
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -26,5 +25,6 @@
 ---
 
 [![Gmail Badge](https://img.shields.io/badge/-luisdavi.contato@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luisdavi.contato@gmail.com)](mailto:luisdavi.contato@gmail.com)
+[![My](https://img.shields.io/badge/-Portfolio-189e44?style=flat-square&logo&logoColor=white)](https://luisdavi.netlify.app/)
 [![Instagram Badge](https://img.shields.io/badge/-lu1s_davi-a43b9d?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/lu1s_davi/)
 [![Discord Badge](https://img.shields.io/badge/-!Hirinho¥-7289da?style=flat-square&logo=Discord&logoColor=white)](https://discordapp.com/users/443172502995337217/)
