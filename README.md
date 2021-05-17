@@ -4,7 +4,15 @@
 
 <p> Front-end developer, Web Design and UX-UI enthusiast. I seek to share knowledge to improve my projects.  </p>
 
----
+
+
+### Contributions
+
+> Volunteer at: 
+> - mozilla support forum 
+> - Ecosia search engine support forum 
+
+
 ### Tools and languages 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
