@@ -11,6 +11,7 @@
 > Volunteer at: 
 > - mozilla support forum 
 > - Ecosia search engine support forum 
+> - I help the stack overflow by answering programming questions, thus sharing knowledge 
 
 
 ### Tools and languages 
